@@ -27,9 +27,30 @@ https://conference.ippp.dur.ac.uk/event/1027/
 * NExT PhD Workshop
 https://indico.cern.ch/event/959445/
 
-## International HEP Schools
-* CTEQ (Coordinated Theoretical-Experimental Project on QCD)
+
+
+## General Particle Physics International School
+* IDPAC Summer School
+https://indico.cern.ch/event/1137808/
+
+
+
+
+## Specific HEP Schools
+* CTEQ (Coordinated Theoretical-Experimental Project on QCD). For QCD phenomenology.
 https://www.physics.smu.edu/scalise/cteq/schools/summer22/
 
-* MCNet (Monte Carlo net)
+* MCNet (Monte Carlo net). For Monte-Carlo event generation theory and software.
 https://www.montecarlonet.org/schools
+
+* Machine Learning in HEP
+https://indico.cern.ch/event/1025052/
+
+## Pre-PhD
+* HASCO. Elementary introduction to collider physics.
+https://indico.cern.ch/event/1122790/
+
+* GRASPA. Introduction to particle and astroparticle physics for 3rd- and 4th-year undergraduate students.
+https://idpasc.lip.pt/events/90
+
+
