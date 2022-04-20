@@ -37,7 +37,19 @@ SLAC Summer Institute
 https://conf.slac.stanford.edu/ssi2022/
 
 
-## Specific HEP Schools
+
+## CERN Field-Specific School
+* CERN Accelerator Schools
+https://cas.web.cern.ch/upcoming-schools
+
+* Thematic CERN School of Computing
+https://indico.cern.ch/event/1100351/
+
+* CERN School of Computing
+https://indico.cern.ch/event/1125271/
+
+
+## Non-CERN Specific HEP Schools
 * CTEQ (Coordinated Theoretical-Experimental Project on QCD). For QCD phenomenology.
 https://www.physics.smu.edu/scalise/cteq/schools/summer22/
 
@@ -47,8 +59,6 @@ https://www.montecarlonet.org/schools
 * Machine Learning in HEP
 https://indico.cern.ch/event/1025052/
 
-* Cern Accelerator Schools
-https://cas.web.cern.ch/upcoming-schools
 
 
 ## Pre-PhD
