@@ -1,6 +1,8 @@
 # HEP-Schools-Workshops
 A repository for high-energy physics summer schools, workshops and conferences for students and young career scientists. 
 
+The best resource for those with access rights is: https://indico.cern.ch/category/1279/ , which lists numerous CERN official and non-CERN schools.
+
 ## CERN Summer Schools
 https://physicschool.web.cern.ch/
 * European School
