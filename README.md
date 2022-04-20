@@ -3,6 +3,8 @@ A repository for high-energy physics summer schools, workshops and conferences f
 
 The best resource for those with access rights is: https://indico.cern.ch/category/1279/ , which lists numerous CERN official and non-CERN schools.
 
+What follows is a list of schools and workshops I have come across in my PhD, with a UK- and CERN-bias. Links map to the latest iteration of each school at the time of compilation, April 2022.
+
 ## CERN Summer Schools
 https://physicschool.web.cern.ch/
 * European School
