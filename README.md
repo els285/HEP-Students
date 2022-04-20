@@ -20,3 +20,10 @@ https://www.ukri.org/councils/stfc/career-and-skills-development/training/short-
 * BUSSTEPP (British Universities Summer School in Theoretical Elementary Particle Physics)
 https://sites.google.com/view/busstepp2020
 
+## UK Student Workshops
+* YETI (Young Experimentalist-Theorist Institute)
+https://conference.ippp.dur.ac.uk/event/1027/
+
+* NExT PhD Workshop
+https://indico.cern.ch/event/959445/
+
