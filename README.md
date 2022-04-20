@@ -27,3 +27,9 @@ https://conference.ippp.dur.ac.uk/event/1027/
 * NExT PhD Workshop
 https://indico.cern.ch/event/959445/
 
+## International HEP Schools
+* CTEQ (Coordinated Theoretical-Experimental Project on QCD)
+https://www.physics.smu.edu/scalise/cteq/schools/summer22/
+
+* MCNet (Monte Carlo net)
+https://www.montecarlonet.org/schools
