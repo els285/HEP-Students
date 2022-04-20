@@ -33,7 +33,8 @@ https://indico.cern.ch/event/959445/
 * IDPAC Summer School
 https://indico.cern.ch/event/1137808/
 
-
+SLAC Summer Institute
+https://conf.slac.stanford.edu/ssi2022/
 
 
 ## Specific HEP Schools
@@ -45,6 +46,10 @@ https://www.montecarlonet.org/schools
 
 * Machine Learning in HEP
 https://indico.cern.ch/event/1025052/
+
+* Cern Accelerator Schools
+https://cas.web.cern.ch/upcoming-schools
+
 
 ## Pre-PhD
 * HASCO. Elementary introduction to collider physics.
