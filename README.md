@@ -10,3 +10,10 @@ https://physicschool.web.cern.ch/
 ### Hadron Collider Physics Summer School
 CERN-Fermilab Summer School
 https://indico.cern.ch/event/1023573/
+
+
+## UK Student Schools
+* STFC High-Energy Physics Summer School
+(for UK-based experimental-HEP students)
+https://www.ukri.org/councils/stfc/career-and-skills-development/training/short-courses-and-summer-schools/high-energy-physics-summer-schools/
+
