@@ -17,3 +17,6 @@ https://indico.cern.ch/event/1023573/
 (for UK-based experimental-HEP students)
 https://www.ukri.org/councils/stfc/career-and-skills-development/training/short-courses-and-summer-schools/high-energy-physics-summer-schools/
 
+* BUSSTEPP (British Universities Summer School in Theoretical Elementary Particle Physics)
+https://sites.google.com/view/busstepp2020
+
