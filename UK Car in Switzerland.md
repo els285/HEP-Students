@@ -31,10 +31,10 @@ French tolls are a pain. You have to pay for the motorways at toll booths along 
  
 ## Car in Switzerland
 
-## Fuel
+### Fuel
 The cheapest place I found for fuel was E Leclerc in Ferney: [https://goo.gl/maps/Nkg369rkvkrUQAjq5](https://goo.gl/maps/Nkg369rkvkrUQAjq5). This was a good 25% cheaper than Swiss garages for E10.
 
-## Crossing Borders
+### Crossing Borders
 Occasionally the Ferney-Meyrin border crossing is manned, or the border guard were just further along the road into Meyrin. There is a rule that you can only take 4L of wine and 1kg of meat into Switzerland from France before paying tax, but I was never checked. In the couple of instances that border officers spoke to me, I was able to explain in English where I lived and worked, and had no problems.
 
  ### Parking
