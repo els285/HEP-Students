@@ -27,7 +27,7 @@ You require a vignette to drive on Swiss motorways. Apparently this can be bough
 ### Driving in France
 You are required to have a reflective jacket and an emergency triangle. I think this is still true. 
 I bought [these](https://www.amazon.co.uk/gp/product/B08C2CGMTF/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1).
-French tolls are a pain. You have to pay for the motorways at toll booths along the motorway, which is annoying on a right-hand drive car. It was about 80 euros to drive from Calais to Geneva one way. I always paid by contactless debit card.
+French tolls are a pain. You have to pay for the motorways at toll booths, which is annoying on a right-hand drive car. It was about 80 euros to drive from Calais to Geneva one way. I always paid by contactless debit card.
  
 ## Car in Switzerland
 
