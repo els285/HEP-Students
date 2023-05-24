@@ -29,7 +29,7 @@ You are required to have a reflective jacket and an emergency triangle. I think 
 I bought (these)[https://www.amazon.co.uk/gp/product/B08C2CGMTF/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1].
  
  
-### Car in Switzerland
+## Car in Switzerland
 
  ### Parking
  Parking in Meyrin is in general not free, but in my case the UKLO were able to provide a parking space with my apartment.
