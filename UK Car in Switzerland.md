@@ -36,3 +36,9 @@ I bought (these)[https://www.amazon.co.uk/gp/product/B08C2CGMTF/ref=ppx_yo_dt_b_
  
  ### Registering your car at CERN
  You can't take your car onto the CERN site until it's registered, do that [here](https://home.cern/news/announcement/cern/new-online-registration-vehicles).
+ 
+ ### Maintenance
+ I only visited the garage once. I used the garage at Champs Frechets next to DS17. The guy was really nice and spoke decent English, but it was expensive (~350 CHF for service). I've heard there are cheaper garages in France but then you perhaps have to contend with a language barrier.
+ 
+ ### Winter Tyres
+I had my winter tyres fitted in September in the UK before I drove over. I kept them on the whole time - it seemed less hassle and expense than finding a garage to change them and a place to store the tyres.
