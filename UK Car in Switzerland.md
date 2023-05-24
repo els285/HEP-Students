@@ -25,7 +25,8 @@ I have also seen that as a student you are exempt from importing for 24 months:
 You require a vignette to drive on Swiss motorways. Apparently this can be bought at entry points, but I always bought mine at the petrol station in Meyrin. It costs 40CHF and you stick it on the windscreen. To avoid this being a problem when I first brought the car over, I took the D1206 from Bellagarde to Saint-Genis and came into Meyrin via the D948F CERN border. This meant I was never on a Swiss motorway, plus I have never seen the CERN border manned.
 
 ### Driving in France
-You are required to have a reflective jacket and an emergency triangle. I think this is still true. I bought (these)[https://www.amazon.co.uk/gp/product/B08C2CGMTF/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1]
+You are required to have a reflective jacket and an emergency triangle. I think this is still true. 
+I bought (these)[https://www.amazon.co.uk/gp/product/B08C2CGMTF/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1].
  
  
 ### Car in Switzerland
