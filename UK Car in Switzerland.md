@@ -27,9 +27,15 @@ You require a vignette to drive on Swiss motorways. Apparently this can be bough
 ### Driving in France
 You are required to have a reflective jacket and an emergency triangle. I think this is still true. 
 I bought (these)[https://www.amazon.co.uk/gp/product/B08C2CGMTF/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1].
- 
+French tolls are a pain. You have to pay for the motorways at toll booths along the motorway, which is annoying on a right-hand drive car. It was about 80 euros to drive from Calais to Geneva one way. I always paid by contactless debit card.
  
 ## Car in Switzerland
+
+## Fuel
+The cheapest place I found for fuel was E Leclerc in Ferney: [https://goo.gl/maps/Nkg369rkvkrUQAjq5](https://goo.gl/maps/Nkg369rkvkrUQAjq5). This was a good 25% cheaper than Swiss garages for E10.
+
+## Crossing Borders
+Occasionally the Ferney-Meyrin border crossing is manned, or the border guard were just further along the road into Meyrin. There is a rule that you can only take 4L of wine and 1kg of meat into Switzerland from France before paying tax, but I was never checked. In the couple of instances that border officers spoke to me, I was able to explain in English where I lived and worked, and had no problems.
 
  ### Parking
  Parking in Meyrin is in general not free, but in my case the UKLO were able to provide a parking space with my apartment.
