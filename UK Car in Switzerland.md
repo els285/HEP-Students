@@ -1,4 +1,4 @@
-## Taking a UK Car to Switzerland
+# Taking a UK Car to Switzerland
 
 It is possible, and I think desirable, to take your UK car to Switzerland.
 
