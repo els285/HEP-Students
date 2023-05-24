@@ -1,6 +1,6 @@
 # Taking a UK Car to Switzerland
 
-It is possible, and I think desirable, to take your UK car to Switzerland.
+It is possible, and I think desirable, to take your UK car to Switzerland. This information was valid for my LTA August 2021 - February 2023. I take no responsibility if it is no longer valid.
 
 ## Legal Matters
 It is not necessary to import your car if you are there for less than 12 months.
